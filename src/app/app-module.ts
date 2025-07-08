@@ -3,12 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing-module';
 import { App } from './app';
-import { ExibeMensagem } from './exibe-mensagem/exibe-mensagem';
+import { CalculaMedia } from './calcula-media/calcula-media';
 
 @NgModule({
   declarations: [
     App,
-    ExibeMensagem
+    CalculaMedia
   ],
   imports: [
     BrowserModule,

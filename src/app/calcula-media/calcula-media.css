@@ -1,0 +1,13 @@
+:host {
+  display: block;
+  height: 100vh;
+  background-image: url('MAXXX.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container{
+    align-content: center;
+}
+
